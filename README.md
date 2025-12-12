@@ -14,6 +14,7 @@ El objetivo es mostrar cómo automatizar validaciones, construir imágenes repro
 
 ## 📁 Estructura del proyecto
 
+```
 ci-cd-python-api/
 │
 ├── app/
@@ -33,6 +34,7 @@ ci-cd-python-api/
 └── .github/
 └── workflows/
 └── ci.yml # Pipeline CI con GitHub Actions
+```
 
 ---
 
